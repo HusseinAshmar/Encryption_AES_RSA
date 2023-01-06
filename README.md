@@ -3,6 +3,6 @@ A simple app to Encrypt a message using Hybrid AES(Symmetric) and RSA(Asymmetric
 
 This app requiers python it also requires these libraries to run:
 
-in cmd: 
-       pip install tk
-       pip install cryptography 
+in cmd run: 
+pip install tk
+pip install cryptography 
